@@ -8,7 +8,7 @@
 
 
 <body>
-    <form action="registracija.php" method="post">
+    <form action="modeli/registracija.php" method="post">
         <input required type="email" name="email" placeholder="Unesite vas email">
         <input required type="password" name="sifra" placeholder="Unesite vasu lozinku">
         <button>Registruj me</button>
